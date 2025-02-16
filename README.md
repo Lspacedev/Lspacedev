@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tshepo Mpogeng</h1>
-<h3 align="center">A passionate Full Stack and Mobile Developer from South Africa</h3>
+<h1 align="start">Hi 👋, I'm Tshepo Mpogeng</h1>
+<h3 align="start">A passionate Full Stack and Mobile Developer from South Africa</h3>
 
 - 🌱 I’m currently learning **C++**
 
