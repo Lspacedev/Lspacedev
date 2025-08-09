@@ -9,6 +9,5 @@
 
 - 💬 Ask me about **react.js, react native, node.js, express.js**
 
-- 📫 How to reach me **tshepompogeng83@gmail.com**
 
 
